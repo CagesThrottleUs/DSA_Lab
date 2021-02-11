@@ -1,0 +1,9 @@
+Text File and binary file for file handling.
+
+Library: stdio.h
+fscanf(FILE*, ...): to read from a file.
+fprintf(FILE*, ...): to write into a file.
+
+FILE* f=fopen("filename", <mode of opening>); // refer to lab2.pdf to read about the method of opening
+                                              // You can also check the screenshot
+fclose(f);

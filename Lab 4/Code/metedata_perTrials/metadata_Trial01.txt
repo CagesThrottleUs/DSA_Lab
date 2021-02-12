@@ -1,0 +1,50 @@
+Value of n: 1000
+Linear list
+Total heap memory after main() call: 8004
+Total time for execution: 6.970264 seconds
+
+Value of n: 2000
+Linear list
+Total heap memory after main() call: 16004
+Total time for execution: 5.664249 seconds
+
+Value of n: 5000
+Cyclical list with node value: 3402
+Total heap memory after main() call: 12796
+Total time for execution: 12.1278682 seconds
+
+Value of n: 10000
+Linear list
+Total heap memory after main() call: 80004
+Total time for execution: 15.1132865 seconds
+
+Value of n: 25000
+Cyclical list with node value: 623
+Total heap memory after main() call: 195028
+Total time for execution: 38.3143709 seconds
+
+Value of n: 50000
+Cyclical list with node value: 9866
+Total heap memory after main() call: 321084
+Total time for execution: 84.8569691 seconds
+
+Value of n: 75000
+Cyclical list with node value: 7315
+Total heap memory after main() call: 541492
+Total time for execution: 78.8142678 seconds
+
+Value of n: 100000
+Linear list
+Total heap memory after main() call: 800004
+Total time for execution: 130.12956283 seconds
+
+Value of n: 125000
+Linear list
+Total heap memory after main() call: 1000004
+Total time for execution: 250.24167344 seconds
+
+Value of n: 500000
+Linear list
+Total heap memory after main() call: 4000004
+Total time for execution: 1879.188011596 seconds
+

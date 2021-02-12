@@ -1,0 +1,5 @@
+When no intercall: stack popped as the function comes to end.
+
+When intercall allowed: With a difference of 48 is created. (unsigned int)
+
+Recursion: Error after the whole stack was filled and it died for both 'pilani' and 'n' variable.

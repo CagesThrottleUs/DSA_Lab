@@ -1,0 +1,17 @@
+void *malloc(
+   size_t size
+);
+
+malloc returns a void pointer to the allocated space, or NULL if there is insufficient memory available. 
+To return a pointer to a type other than void, use a type cast on the return value. 
+The storage space pointed to by the return value is guaranteed to be suitably aligned for storage of 
+any type of object that has an alignment requirement less than or equal to that of the fundamental alignment.
+
+The malloc function allocates a memory block of at least size bytes. 
+The block may be larger than size bytes because of the space that's required for alignment and maintenance information.
+
+Even though using malloc and freeing the space provided, the program is still not using the same heap location.
+Lol, I did not use free() in myfree(), so memory was never deallocated.
+
+
+You use free() only when you ask for proper storage from OS.

@@ -1,0 +1,42 @@
+Time: Fri Feb 26 10:35:24 2021
+	For 10 data: 
+	Time taken: 0.00000000 seconds
+	Total array size: 400 bytes
+Time: Fri Feb 26 10:35:28 2021
+	For 100 data: 
+	Time taken: 0.00000000 seconds
+	Total array size: 4000 bytes
+Time: Fri Feb 26 10:35:32 2021
+	For 1000 data: 
+	Time taken: 0.00100000 seconds
+	Total array size: 40000 bytes
+Time: Fri Feb 26 10:35:36 2021
+	For 10000 data: 
+	Time taken: 0.01200000 seconds
+	Total array size: 400000 bytes
+Time: Fri Feb 26 10:35:49 2021
+	For 100000 data: 
+	Time taken: 0.08800000 seconds
+	Total array size: 4000000 bytes
+-------------------------------------------------
+Time: Fri Feb 26 10:36:19 2021
+	For 10 data: 
+	Time taken: 0.00000000 seconds
+	Total array size: 400 bytes
+Time: Fri Feb 26 10:36:21 2021
+	For 100 data: 
+	Time taken: 0.00000000 seconds
+	Total array size: 4000 bytes
+Time: Fri Feb 26 10:36:24 2021
+	For 1000 data: 
+	Time taken: 0.00100000 seconds
+	Total array size: 40000 bytes
+Time: Fri Feb 26 10:36:27 2021
+	For 10000 data: 
+	Time taken: 0.00900000 seconds
+	Total array size: 400000 bytes
+Time: Fri Feb 26 10:36:29 2021
+	For 100000 data: 
+	Time taken: 0.08900000 seconds
+	Total array size: 4000000 bytes
+-------------------------------------------------
